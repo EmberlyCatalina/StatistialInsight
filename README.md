@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+Hey it's Emberly you will first want to run:
+### 'npm install'
+inside the terminal, I will provide a screen recording on Group-Me fingers are crossed that this works on your end!
+
 ### `npm start`
 
 Runs the app in the development mode.\
